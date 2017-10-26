@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace sliding_Menu.Controllers
 {
-    [Activity(Label = "TestGitHub", MainLauncher = true/*,Theme =""*/)]
+    [Activity(Label = "TestGitHubMreza", MainLauncher = true/*,Theme =""*/)]
     public class Main : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
