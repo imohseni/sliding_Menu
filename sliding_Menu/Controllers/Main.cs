@@ -20,6 +20,7 @@ namespace sliding_Menu.Controllers
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.Main);
+            //// hi
 
         }
     }
